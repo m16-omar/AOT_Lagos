@@ -28,7 +28,11 @@ module.exports = {
                 white: "var(--white)",
                 black: { 600: "var(--back_600)"},
                 gray_shadow: "var(--gray_shadow)",
-            }
-        }
-    }
+            },
+            boxShadow: { xs: "0 0 13px 5px #00000029"},
+            fontFamily: { neuemontreal: "Neue Montreal", poppins: "Poppins"},
+            backgroundImage: { gradient: "linear-gradient(90deg, #cebc933, #cebce902)"},
+        },
+    },
+    plugins: [require("@tailwindcss/forms")],
 }
