@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    :root {
+
+    /* ------ Color variables ------ */
+    --amber-500: #ffc107;
+    --background: #000000;
+    --background-n: #f3f4f6;
+    --blue-gray-900: #44154a;
+    --deep-purple-100-02: #cebce902;
+    --deep-purple-100-33: #cebce933;
+    --deep-purple-a200-02: #8a2be202;
+    --deep-purple-a200-33: #8a2be233;
+    --deep-purple-a200-7f: #8a2be27f;
+    --gray-300: #e0e0e0;
+    --gray-400: #bebebe;
+    --high-contrast: #0a0a0a;
+    --light-blue-600: #039be5;
+    --low-contrast: #9e9e9e;
+    --medium-contrast: #333333;
+    --primary: #8a2be2;
+    --primary-shades: #cebce9;
+    --purple-600: #9234ab;
+    --white: #ffffff;
+    --black-600: #656d76;
+    --gray-shadow: #00000029;
+    }
+}

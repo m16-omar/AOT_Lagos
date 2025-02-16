@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Poppins;
+}
+
+* {
+    box-sizing: border-box;
+    line-height: normal;
+    font-family: inherit;
+    margin: unset;
+}
+
+.head_border {
+    background-filter: blur(1px);
+    &::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(180deg, #cebce933, #cebce902);
+        background-clip: border-box;
+        mask: linear-gradient(#fff 0 0), padding-box,
+        linear-gradient(#fff 0 0);
+        z-index: -10;
+        border-radius: 22px;
+        border: 0.5px solid transparent;
+    }
+}
+
+a {
+    text-decoration: none;
+    display: block;
+}
+
+ul {
+    margin: 0;
+    margin-inline: unset !important;
+    padding: 0;
+    list-style: none;
+}
+
+input {
+    background-color: transparent;
+    width: 100%;
+}
+
+input:focus {
+    outline: none;
+}
