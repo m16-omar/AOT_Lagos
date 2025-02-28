@@ -1,17 +1,17 @@
 <svg width="200" height="201" viewBox="0 0 200 201" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_d_219_128)">
-<path d="M77.2742 52.5882C80.5899 49.1067 85.6527 47.9193 90.1705 49.5637L140.99 68.0606C145.475 69.6927 148.58 73.8089 148.919 78.569L151.464 114.362C151.649 116.963 151 119.547 149.486 121.669C144.589 128.534 132.446 144.084 120.034 148.575C94.3861 157.855 67.9228 148.377 54.4044 124.688C47.8637 113.227 48.769 93.4824 49.5085 85.1712C49.733 82.6474 50.8643 80.3189 52.6117 78.4841L77.2742 52.5882Z" fill="#CEBCE9"/>
+<g filter="url(#filter0_d_219_155)">
+<path d="M77.2743 52.2463C80.59 48.7648 85.6528 47.5774 90.1706 49.2218L140.99 67.7186C145.475 69.3508 148.58 73.467 148.919 78.2271L151.464 114.02C151.649 116.621 151 119.205 149.486 121.327C144.589 128.193 132.446 143.742 120.034 148.233C94.3862 157.513 67.9229 148.035 54.4045 124.346C47.8638 112.885 48.7691 93.1405 49.5085 84.8293C49.733 82.3055 50.8643 79.977 52.6118 78.1422L77.2743 52.2463Z" fill="#CEBCE9"/>
 </g>
 <defs>
-<filter id="filter0_d_219_128" x="0.611614" y="0.449757" width="199.267" height="200.025" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_219_155" x="0.611561" y="0.107899" width="199.268" height="200.025" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset/>
 <feGaussianBlur stdDeviation="24.192"/>
 <feComposite in2="hardAlpha" operator="out"/>
 <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_219_128"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_219_128" result="shape"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_219_155"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_219_155" result="shape"/>
 </filter>
 </defs>
 </svg>
