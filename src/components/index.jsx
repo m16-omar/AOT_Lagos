@@ -1,9 +1,9 @@
-import { Button } from "./button";
-import { CheckBox } from "./checkbox";
-import { Heading } from "./heading";
-import { Img } from "./img";
-import { Input } from "./input";
-import { Selectbox } from "./selectbox";
-import { Text } from "./text";
+import { Button } from "./Button";
+import { CheckBox } from "./CheckBox";
+import { Heading } from "./Heading";
+import { Img } from "./Img";
+import { Input } from "Input";
+import { SelectBox } from "./SelectBox";
+import { Text } from "./Text";
 
-export { Button, CheckBox, Heading, Img, Input, Selectbox, Text };
+export { Button, CheckBox, Heading, Img, Input, SelectBox, Text };
